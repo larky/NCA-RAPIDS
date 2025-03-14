@@ -53,5 +53,5 @@ This Jupyter Notebook is designed to help beginners understand how to load, clea
 
 ---
 ### Need Help?
-For any issues, check out the **NVIDIA AI Workbench documentation** or post in the **RAPIDS community forums**!
+For any issues, start with the **NVIDIA AI Workbench documentation** 
 
