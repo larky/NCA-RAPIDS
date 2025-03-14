@@ -1,0 +1,5 @@
+mkdir .wbench
+echo '{}' > .wbench/config.json  # Creates an empty config file
+git add .wbench/config.json
+git commit -m "Added AI Workbench config"
+git push
